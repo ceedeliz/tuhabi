@@ -1,0 +1,5 @@
+fastapi==0.78.0
+mysql_connector_repackaged==0.3.1
+pydantic==1.9.1
+pytest==7.1.2
+python-dotenv==0.20.0
